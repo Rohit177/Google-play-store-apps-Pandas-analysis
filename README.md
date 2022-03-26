@@ -1,4 +1,4 @@
-# Google-play-store-apps-Pandas-analysis
+# Google Play-Store Apps analysis with Pandas and Matplotlib
 
 #### Dataset Link: https://www.kaggle.com/datasets/lava18/google-play-store-apps 
 #### Source: Kaggle.com
