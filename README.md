@@ -5,13 +5,13 @@
   Dataset is in the form of CSV File
 
 ## Setup:
-  To run the code download dataset from the given dataset link
-  Use Jupyter notebook or Google Kolab to run notebook file
-  Import dataset by targeting local location
+  - To run the code download dataset from the given dataset link
+  - Use Jupyter notebook or Google Kolab to run notebook file
+  - Import dataset by targeting local location
   
 ## Used Setup
-  Environment: Anaconda env
-  Application: Jupyter notebook
-  Language used: Python 3
-  Libraries: Pandas, Matplotlib
+  - Environment: Anaconda env
+  - Application: Jupyter notebook
+  - Language used: Python 3
+  - Libraries: Pandas, Matplotlib
   
