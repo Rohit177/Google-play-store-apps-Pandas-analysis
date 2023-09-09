@@ -1,12 +1,5 @@
 # Google Play-Store Apps analysis with Pandas and Matplotlib
 This Jupyter Notebook contains an analysis of Google Play Store apps using Python's Pandas and Matplotlib libraries. The analysis provides insights into the dataset, explores trends, and visualizes data to gain a better understanding of the Google Play Store apps landscape.
-
-
-
-## Setup:
-  - To run the code download dataset from the given dataset link
-  - Use Jupyter notebook or Google Kolab to run notebook file
-  - Import dataset by targeting local location
   
 ## Used Setup
   - Environment: Anaconda env
